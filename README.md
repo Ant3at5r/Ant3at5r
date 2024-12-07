@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Ant3at5r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ant3at5r)](https://github.com/An3at5r/github-readme-stats)
 
 <!--
 **Ant3at5r/Ant3at5r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
