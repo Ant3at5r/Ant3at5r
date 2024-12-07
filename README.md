@@ -1,6 +1,6 @@
 [![Ant3at5r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ant3at5r&show_icons=true&theme=transparent)](https://github.com/An3at5r/github-readme-stats)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ant3at5r&no-bg=true)](https://github.com/Ant3at5r/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ant3at5r&show_icons=true&theme=transparent)](https://github.com/Ant3at5r/github-readme-stats)
 <!--
